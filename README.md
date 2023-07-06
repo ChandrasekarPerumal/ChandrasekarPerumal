@@ -3,10 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Chandrasekar Perumal</h1>
 <h3 align="center">A passionate back-end developer from India</h3>
-<img alifn="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrasekarperumal&label=Profile%20views&color=0e75b6&style=flat" alt="chandrasekarperumal" /> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrasekarperumal&label=Profile%20views&color=0e75b6&style=flat" alt="chandrasekarperumal" /> </p>
 
 - 🌱 I’m currently learning **Spring MVC , AWS**
 
@@ -15,6 +13,8 @@
 - 💬 Ask me about **JavaFX, Java ,RabbitMQ**
 
 - 📫 How to reach me **chandruselv@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Jl9UDj_M0y9dvEBuVHw28pD-E_CnHhDM/view?usp=drive_link](https://drive.google.com/file/d/1Jl9UDj_M0y9dvEBuVHw28pD-E_CnHhDM/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
