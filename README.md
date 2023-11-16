@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **chandruselv@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Jl9UDj_M0y9dvEBuVHw28pD-E_CnHhDM/view?usp=drive_link](https://drive.google.com/file/d/1Jl9UDj_M0y9dvEBuVHw28pD-E_CnHhDM/view?usp=drive_link)
+- 📄 Know about my experiences http://bit.ly/Chandrasekar_Java_Dev_Resume
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
