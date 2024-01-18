@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandrasekarperumal&label=Profile%20views&color=0e75b6&style=flat" alt="chandrasekarperumal" /> </p>
 
-- 🌱 I’m currently learning **Spring MVC , AWS**
+- 🌱 I’m currently learning **Spring Cache**
 
 - 👯 I’m looking to collaborate on **Java**
 
-- 💬 Ask me about **JavaFX, Java ,RabbitMQ**
+- 💬 Ask me about **Spring Boot, REST API, Microservices, Java ,RabbitMQ**
 
 - 📫 How to reach me **chandruselv@gmail.com**
 
